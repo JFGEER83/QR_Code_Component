@@ -22,6 +22,7 @@
     width: 320px;
     height: 497px;
     border-radius: 20px;
+    filter: drop-shadow(rgba(152, 150, 150, 0.322) 1rem 1rem 10px);
  }
 .img{
     padding: 1em;
@@ -34,18 +35,22 @@
  }
  .text{
     text-align: center;
-    padding: 1em;
+    padding: 0 2em;
  }
  .text h1{
     font-size: 22px;
     font-weight: 700;
     color: #1F314F;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
+    line-height: 1.4em;
  }
  .text p{
+   
     font-size: 15px;
-    font-weight: 400;
+    font-weight:normal;
     color: #7D889E;
+    letter-spacing: 0.19px;
+    line-height: 1.4em;
  }
 
  .attribution{
