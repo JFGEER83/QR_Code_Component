@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
- html{
+html{
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
  }
@@ -45,7 +45,6 @@
     line-height: 1.4em;
  }
  .text p{
-   
     font-size: 15px;
     font-weight:normal;
     color: #7D889E;
