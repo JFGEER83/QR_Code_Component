@@ -10,14 +10,14 @@ html{
  body{
     background-color: #D5E1EF;
  }
- .container{
+ main{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
  }
- .box{
+ .container{
     background-color:  hsl(0, 0%, 100%);
     width: 320px;
     height: 497px;
@@ -47,7 +47,7 @@ html{
  .text p{
     font-size: 15px;
     font-weight:normal;
-    color: #7D889E;
+    color: hsl(220, 15%, 55%);
     letter-spacing: 0.19px;
     line-height: 1.4em;
  }
